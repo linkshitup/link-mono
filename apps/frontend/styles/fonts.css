@@ -1,0 +1,44 @@
+/**
+ * Font Definitions
+ * All @font-face declarations and font-related utilities
+ */
+
+@font-face {
+  font-family: 'Apfel Grotezk';
+  src: url('/fonts/apfel/ApfelGrotezk-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Apfel Grotezk';
+  src: url('/fonts/apfel/ApfelGrotezk-Mittel.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Apfel Grotezk';
+  src: url('/fonts/apfel/ApfelGrotezk-Satt.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Apfel Grotezk';
+  src: url('/fonts/apfel/ApfelGrotezk-Fett.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Apfel Grotezk';
+  src: url('/fonts/apfel/ApfelGrotezk-Brukt.woff2') format('woff2');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}

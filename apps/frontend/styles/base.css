@@ -1,0 +1,10 @@
+/**
+ * Base Styles
+ * Global element styles and resets
+ */
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-inter);
+}
