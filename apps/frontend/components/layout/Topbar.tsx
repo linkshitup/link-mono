@@ -16,16 +16,16 @@ const Topbar = () => {
       </div>
       <div className="flex gap-6 py-2">
         <div className="border-2 border-black/15 gap-4   rounded-corners w-fit flex items-center px-4">
-          <div className="font-primary flex items-center gap-2 text-lg">
+          <div className="font-primary flex items-center gap-2 text-base">
             {" "}
             <FoldersIcon className="size-4" /> ronishrohan
           </div>
           <div className="h-full w-[1.5px] bg-stone-300 " ></div>
-          <div className="font-primary flex items-center gap-2 text-lg">
+          <div className="font-primary flex items-center gap-2 text-base">
             {" "}
             <PackageIcon className="size-4" /> Waffle
           </div>
-          <div className="h-full w-[1.5px] bg-stone-300 " ></div><div className="font-primary flex items-center gap-2 text-lg">
+          <div className="h-full w-[1.5px] bg-stone-300 " ></div><div className="font-primary flex items-center gap-2 text-base">
             {" "}
             <FlaskIcon className="size-4" /> Development
           </div>

@@ -19,5 +19,5 @@
   --font-mono: var(--font-geist-mono);
   --font-primary: var(--font-primary);
  
-  --radius-corners: 24px;
+  --radius-corners: 8px;
 }
