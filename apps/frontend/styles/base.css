@@ -8,3 +8,7 @@ body {
   color: var(--foreground);
   font-family: var(--font-inter);
 }
+
+*{
+  corner-shape: superellipse(1) !important;
+}

@@ -18,4 +18,6 @@
   --font-sans: var(--font-primary);
   --font-mono: var(--font-geist-mono);
   --font-primary: var(--font-primary);
+ 
+  --radius-corners: 24px;
 }
