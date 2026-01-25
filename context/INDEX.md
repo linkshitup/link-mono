@@ -23,6 +23,7 @@
 | Document | Purpose | When to Read |
 |----------|---------|--------------|
 | [README](../README.md) | Project overview | First read |
+| [IMPLEMENTATION_PLAN](./IMPLEMENTATION_PLAN.md) | **Phase-by-phase dev guide** | **Start building** |
 | [ARCHITECTURE](./ARCHITECTURE.md) | System design, layers, components | Understanding structure |
 | [DATABASE](./DATABASE.md) | Supabase schema, tables, relationships | Database work |
 | [API](./API.md) | Endpoints, request/response formats | API development |

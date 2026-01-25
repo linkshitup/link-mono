@@ -120,10 +120,13 @@ await link.calendar.create({
 Detailed documentation is organized in the `/context` folder:
 
 > **🚀 Quick Start**: Read [INDEX.md](./context/INDEX.md) first for a complete overview.
+> 
+> **👷 For Development**: See [IMPLEMENTATION_PLAN.md](./context/IMPLEMENTATION_PLAN.md) for the phase-by-phase build guide.
 
 | Document | Description |
 |----------|-------------|
 | [Index](./context/INDEX.md) | **Start here** - Quick reference and navigation |
+| [Implementation Plan](./context/IMPLEMENTATION_PLAN.md) | **Phase-by-phase dev guide with assignments** |
 | [Architecture](./context/ARCHITECTURE.md) | System design and component diagrams |
 | [Database Schema](./context/DATABASE.md) | Complete Supabase schema |
 | [API Reference](./context/API.md) | Endpoint design and specifications |
